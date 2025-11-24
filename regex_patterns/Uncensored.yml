@@ -1,0 +1,17 @@
+name: Uncensored
+pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
+description: Matches any type of uncensored edition.
+tags:
+- Edition
+tests:
+- expected: true
+  id: 1
+  input: South.Park.S19E06.Uncensored.1080p.WEB-DL.AAC2.0.H.264-NTb
+  lastRun: '2025-11-24T15:09:57.542667'
+  matchSpan:
+    end: 28
+    start: 18
+  matchedContent: Uncensored
+  matchedGroups:
+  - Uncensored
+  passes: true
