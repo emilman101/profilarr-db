@@ -1,0 +1,7 @@
+name: Animesubs
+pattern: (?<=^|[\s.-])Animesubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

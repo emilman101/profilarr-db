@@ -1,0 +1,7 @@
+name: youshikibi
+pattern: (?<=^|[\s.-])youshikibi\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

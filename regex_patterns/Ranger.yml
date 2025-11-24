@@ -1,0 +1,7 @@
+name: Ranger
+pattern: (?<=^|[\s.-])Ranger\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: BlackLuster
+pattern: (?<=^|[\s.-])BlackLuster\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

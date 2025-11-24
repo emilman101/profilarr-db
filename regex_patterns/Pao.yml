@@ -1,0 +1,7 @@
+name: Pao
+pattern: (?<=^|[\s.-])Pao\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

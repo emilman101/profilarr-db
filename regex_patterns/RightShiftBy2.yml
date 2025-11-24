@@ -1,0 +1,7 @@
+name: RightShiftBy2
+pattern: (?<=^|[\s.-])RightShiftBy2\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: PuyaSubs
+pattern: (?<=^|[\s.-])PuyaSubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

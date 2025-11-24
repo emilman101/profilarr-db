@@ -1,0 +1,7 @@
+name: Project-gxs
+pattern: (?<=^|[\s.-])Project-gxs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

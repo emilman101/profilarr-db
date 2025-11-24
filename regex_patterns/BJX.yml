@@ -1,0 +1,7 @@
+name: BJX
+pattern: (?<=^|[\s.-])BJX\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

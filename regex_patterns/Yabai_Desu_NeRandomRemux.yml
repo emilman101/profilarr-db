@@ -1,0 +1,7 @@
+name: Yabai_Desu_NeRandomRemux
+pattern: (?<=^|[\s.-])Yabai_Desu_NeRandomRemux\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

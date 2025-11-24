@@ -1,0 +1,7 @@
+name: $tore-Chill
+pattern: (?<=^|[\s.-])\$tore-Chill\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: Nyanpasu
+pattern: (?<=^|[\s.-])Nyanpasu\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

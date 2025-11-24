@@ -1,0 +1,7 @@
+name: Anime Land
+pattern: (?<=^|[\s.-])Anime Land\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: Valenciano
+pattern: (?<=^|[\s.-])Valenciano\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

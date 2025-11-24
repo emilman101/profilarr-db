@@ -1,0 +1,7 @@
+name: Raw Files
+pattern: (?<=^|[\s.-])Raw Files\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

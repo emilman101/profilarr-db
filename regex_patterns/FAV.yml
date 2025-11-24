@@ -1,0 +1,7 @@
+name: FAV
+pattern: (?<=^|[\s.-])FAV\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

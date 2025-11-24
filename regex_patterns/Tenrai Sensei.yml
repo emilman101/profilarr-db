@@ -1,0 +1,7 @@
+name: Tenrai Sensei
+pattern: (?<=^|[\s.-])Tenrai Sensei\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

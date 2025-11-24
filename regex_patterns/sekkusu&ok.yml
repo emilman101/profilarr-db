@@ -1,0 +1,7 @@
+name: sekkusu&ok
+pattern: (?<=^|[\s.-])sekkusu&ok\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

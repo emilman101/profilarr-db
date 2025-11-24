@@ -1,0 +1,7 @@
+name: LoliHouse
+pattern: (?<=^|[\s.-])LoliHouse\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

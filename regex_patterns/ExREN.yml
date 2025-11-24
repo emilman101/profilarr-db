@@ -1,0 +1,7 @@
+name: ExREN
+pattern: (?<=^|[\s.-])ExREN\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

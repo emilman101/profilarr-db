@@ -1,0 +1,7 @@
+name: PnPSubs
+pattern: (?<=^|[\s.-])PnPSubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

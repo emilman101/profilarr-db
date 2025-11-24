@@ -1,0 +1,7 @@
+name: M@nI
+pattern: (?<=^|[\s.-])M@nI\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

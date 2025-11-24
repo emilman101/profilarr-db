@@ -1,0 +1,7 @@
+name: YuiSubs
+pattern: (?<=^|[\s.-])YuiSubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: OldCastle
+pattern: (?<=^|[\s.-])OldCastle\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

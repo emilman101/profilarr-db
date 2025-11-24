@@ -1,0 +1,7 @@
+name: Suki Desu
+pattern: (?<=^|[\s.-])Suki Desu\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

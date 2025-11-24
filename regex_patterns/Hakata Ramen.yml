@@ -1,0 +1,7 @@
+name: Hakata Ramen
+pattern: (?<=^|[\s.-])Hakata Ramen\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: Rip Time
+pattern: (?<=^|[\s.-])Rip Time\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

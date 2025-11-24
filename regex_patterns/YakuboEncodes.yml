@@ -1,0 +1,7 @@
+name: YakuboEncodes
+pattern: (?<=^|[\s.-])YakuboEncodes\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

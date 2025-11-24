@@ -1,0 +1,7 @@
+name: QaS
+pattern: (?<=^|[\s.-])QaS\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

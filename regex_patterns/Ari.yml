@@ -1,0 +1,7 @@
+name: Ari
+pattern: (?<=^|[\s.-])Ari\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

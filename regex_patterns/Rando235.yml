@@ -1,0 +1,7 @@
+name: Rando235
+pattern: (?<=^|[\s.-])Rando235\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

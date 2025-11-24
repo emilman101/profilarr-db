@@ -1,0 +1,7 @@
+name: Nokou
+pattern: (?<=^|[\s.-])Nokou\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

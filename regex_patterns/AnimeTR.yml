@@ -1,0 +1,7 @@
+name: AnimeTR
+pattern: (?<=^|[\s.-])AnimeTR\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

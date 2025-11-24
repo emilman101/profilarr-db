@@ -1,0 +1,7 @@
+name: USD
+pattern: (?<=^|[\s.-])USD\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

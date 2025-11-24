@@ -1,0 +1,7 @@
+name: SAD
+pattern: (?<=^|[\s.-])SAD\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

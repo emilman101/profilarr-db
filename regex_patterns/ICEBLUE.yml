@@ -1,0 +1,7 @@
+name: ICEBLUE
+pattern: (?<=^|[\s.-])ICEBLUE\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

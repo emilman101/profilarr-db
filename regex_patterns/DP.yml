@@ -1,0 +1,7 @@
+name: DP
+pattern: (?<=^|[\s.-])DP\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

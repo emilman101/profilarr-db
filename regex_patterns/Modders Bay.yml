@@ -1,0 +1,7 @@
+name: Modders Bay
+pattern: (?<=^|[\s.-])Modders Bay\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

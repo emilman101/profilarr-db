@@ -1,0 +1,7 @@
+name: U3-Web
+pattern: (?<=^|[\s.-])U3-Web\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: CBB
+pattern: (?<=^|[\s.-])CBB\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

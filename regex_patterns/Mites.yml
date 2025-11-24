@@ -1,0 +1,7 @@
+name: Mites
+pattern: (?<=^|[\s.-])Mites\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

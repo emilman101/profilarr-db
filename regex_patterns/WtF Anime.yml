@@ -1,0 +1,7 @@
+name: WtF Anime
+pattern: (?<=^|[\s.-])WtF Anime\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

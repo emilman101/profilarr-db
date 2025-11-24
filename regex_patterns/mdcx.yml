@@ -1,0 +1,7 @@
+name: mdcx
+pattern: (?<=^|[\s.-])mdcx\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

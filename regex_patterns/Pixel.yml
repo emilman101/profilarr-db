@@ -1,0 +1,7 @@
+name: Pixel
+pattern: (?<=^|[\s.-])Pixel\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

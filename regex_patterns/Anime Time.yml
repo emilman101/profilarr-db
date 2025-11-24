@@ -1,0 +1,7 @@
+name: Anime Time
+pattern: (?<=^|[\s.-])Anime Time\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

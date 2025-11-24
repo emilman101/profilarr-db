@@ -1,0 +1,7 @@
+name: HAV1T
+pattern: (?<=^|[\s.-])HAV1T\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []
