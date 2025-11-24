@@ -1,6 +1,6 @@
 name: 2160p Remux (Anime)
-description: '2160p Remux (Anime) utilizes **Audio / Video Formats** to prioritise high quality
-  lossless copies of UHD Blurays.
+description: '2160p Remux (Anime) utilizes **Audio / Video Formats** to prioritise
+  high quality lossless copies of UHD Blurays.
 
 
   - 2160p Remux
@@ -196,6 +196,8 @@ custom_formats:
 - name: x265 (Bluray)
   score: -220000
 - name: AV1
+  score: -999999
+- name: Banned Anime Raws
   score: -999999
 - name: Banned Groups
   score: -999999

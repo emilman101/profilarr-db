@@ -1,6 +1,6 @@
 name: 2160p Testing
-description: '2160p Testing utilizes **Audio / Video Formats** to prioritise high quality
-  lossless copies of UHD Blurays.
+description: '2160p Testing utilizes **Audio / Video Formats** to prioritise high
+  quality lossless copies of UHD Blurays.
 
 
   - 2160p Remux
@@ -22,6 +22,8 @@ upgradeUntilScore: 400000
 minScoreIncrement: 1
 custom_formats:
 - name: 2160p Remux
+  score: 320000
+- name: Banned Anime Raws
   score: 320000
 - name: 2160p Quality Tier 1
   score: 304000
@@ -197,16 +199,6 @@ custom_formats:
   score: -220000
 - name: AV1
   score: -999999
-- name: Banned Groups
-  score: -999999
-- name: Banned Groups (Title)
-  score: -999999
-- name: Banned Remux
-  score: -999999
-- name: Banned UHD Bluray
-  score: -999999
-- name: Banned WEBRip
-  score: -999999
 - name: Dolby Vision (Without Fallback)
   score: -999999
 - name: Full Disc
@@ -253,6 +245,16 @@ custom_formats_radarr:
 - name: 3D
   score: -999999
 - name: B&W
+  score: -999999
+- name: Banned Groups
+  score: -999999
+- name: Banned Groups (Title)
+  score: -999999
+- name: Banned Remux
+  score: -999999
+- name: Banned UHD Bluray
+  score: -999999
+- name: Banned WEBRip
   score: -999999
 - name: Extras
   score: -999999
