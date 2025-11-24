@@ -1,0 +1,7 @@
+name: UNBIASED
+pattern: (?<=^|[\s.-])UNBIASED\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: StrayGods
+pattern: (?<=^|[\s.-])StrayGods\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

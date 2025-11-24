@@ -1,0 +1,7 @@
+name: GERMini
+pattern: (?<=^|[\s.-])GERMini\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

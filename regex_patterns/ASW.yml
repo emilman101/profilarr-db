@@ -1,0 +1,7 @@
+name: ASW
+pattern: (?<=^|[\s.-])ASW\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

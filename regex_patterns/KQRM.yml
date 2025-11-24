@@ -1,0 +1,7 @@
+name: KQRM
+pattern: (?<=^|[\s.-])KQRM\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

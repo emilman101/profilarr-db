@@ -1,0 +1,7 @@
+name: AREY
+pattern: (?<=^|[\s.-])AREY\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: Cat66
+pattern: (?<=^|[\s.-])Cat66\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

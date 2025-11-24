@@ -1,0 +1,7 @@
+name: QCE
+pattern: (?<=^|[\s.-])QCE\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

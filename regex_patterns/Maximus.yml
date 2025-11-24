@@ -1,0 +1,7 @@
+name: Maximus
+pattern: (?<=^|[\s.-])Maximus\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

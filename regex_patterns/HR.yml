@@ -1,0 +1,7 @@
+name: HR
+pattern: (?<=^|[\s.-])HR\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

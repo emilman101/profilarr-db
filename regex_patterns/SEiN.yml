@@ -1,0 +1,7 @@
+name: SEiN
+pattern: (?<=^|[\s.-])SEiN\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: DB
+pattern: (?<=^|[\s.-])DB\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

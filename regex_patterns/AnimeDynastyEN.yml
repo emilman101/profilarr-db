@@ -1,0 +1,7 @@
+name: AnimeDynastyEN
+pattern: (?<=^|[\s.-])AnimeDynastyEN\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

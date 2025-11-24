@@ -1,0 +1,7 @@
+name: SSA
+pattern: (?<=^|[\s.-])SSA\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

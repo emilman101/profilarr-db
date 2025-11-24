@@ -1,0 +1,7 @@
+name: NoobSubs
+pattern: (?<=^|[\s.-])NoobSubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

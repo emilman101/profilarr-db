@@ -1,0 +1,7 @@
+name: DaddySubs
+pattern: (?<=^|[\s.-])DaddySubs\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

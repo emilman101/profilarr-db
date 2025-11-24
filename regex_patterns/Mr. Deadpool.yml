@@ -1,0 +1,7 @@
+name: Mr. Deadpool
+pattern: (?<=^|[\s.-])Mr\. Deadpool\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

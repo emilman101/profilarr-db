@@ -1,0 +1,7 @@
+name: AhmadDev
+pattern: (?<=^|[\s.-])AhmadDev\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

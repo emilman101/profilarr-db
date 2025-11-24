@@ -1,0 +1,7 @@
+name: bonkai77
+pattern: (?<=^|[\s.-])bonkai77\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

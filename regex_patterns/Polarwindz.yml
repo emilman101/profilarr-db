@@ -1,0 +1,7 @@
+name: Polarwindz
+pattern: (?<=^|[\s.-])Polarwindz\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

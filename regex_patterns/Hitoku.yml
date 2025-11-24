@@ -1,0 +1,7 @@
+name: Hitoku
+pattern: (?<=^|[\s.-])Hitoku\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

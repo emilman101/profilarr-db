@@ -1,0 +1,7 @@
+name: shincaps
+pattern: (?<=^|[\s.-])shincaps\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

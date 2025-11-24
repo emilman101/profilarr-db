@@ -1,0 +1,7 @@
+name: MGD
+pattern: (?<=^|[\s.-])MGD\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

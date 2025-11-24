@@ -1,0 +1,7 @@
+name: Cerberus
+pattern: (?<=^|[\s.-])Cerberus\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

@@ -1,0 +1,7 @@
+name: Plex Friendly
+pattern: (?<=^|[\s.-])Plex Friendly\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

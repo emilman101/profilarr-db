@@ -1,0 +1,7 @@
+name: Hatsuyuki
+pattern: (?<=^|[\s.-])Hatsuyuki\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

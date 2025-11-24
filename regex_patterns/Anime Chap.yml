@@ -1,0 +1,7 @@
+name: Anime Chap
+pattern: (?<=^|[\s.-])Anime Chap\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

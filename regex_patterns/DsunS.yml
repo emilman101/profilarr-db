@@ -1,0 +1,7 @@
+name: DsunS
+pattern: (?<=^|[\s.-])DsunS\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

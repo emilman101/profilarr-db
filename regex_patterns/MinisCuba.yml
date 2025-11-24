@@ -1,0 +1,7 @@
+name: MinisCuba
+pattern: (?<=^|[\s.-])MinisCuba\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

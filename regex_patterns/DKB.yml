@@ -1,0 +1,7 @@
+name: DKB
+pattern: (?<=^|[\s.-])DKB\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

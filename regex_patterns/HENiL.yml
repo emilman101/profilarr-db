@@ -1,0 +1,7 @@
+name: HENiL
+pattern: (?<=^|[\s.-])HENiL\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

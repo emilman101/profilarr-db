@@ -1,0 +1,7 @@
+name: phazer11
+pattern: (?<=^|[\s.-])phazer11\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

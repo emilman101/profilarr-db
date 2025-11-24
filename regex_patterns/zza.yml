@@ -1,0 +1,7 @@
+name: zza
+pattern: (?<=^|[\s.-])zza\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

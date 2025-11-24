@@ -1,0 +1,7 @@
+name: CuaP
+pattern: (?<=^|[\s.-])CuaP\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

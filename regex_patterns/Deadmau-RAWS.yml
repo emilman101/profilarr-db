@@ -1,0 +1,7 @@
+name: Deadmau-RAWS
+pattern: (?<=^|[\s.-])Deadmau-RAWS\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []

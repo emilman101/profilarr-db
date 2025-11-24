@@ -1,0 +1,7 @@
+name: xiao-av1
+pattern: (?<=^|[\s.-])xiao-av1\b
+description: ''
+tags:
+- Release Group
+- Anime
+tests: []
