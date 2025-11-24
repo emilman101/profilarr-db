@@ -1,0 +1,8 @@
+name: AsukaRaws
+pattern: (?<=^|[\s.-])AsukaRaws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []
