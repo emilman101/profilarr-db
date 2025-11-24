@@ -1,8 +1,9 @@
-name: Anime Raws Groups
+name: Banned Anime Raws
 description: ''
 tags:
-- Anime
+- Banned
 - Release Group
+- Anime
 - Anime Raws
 conditions:
 - name: AsukaRaws
@@ -81,38 +82,38 @@ conditions:
   required: false
   type: release_group
 - name: Ohys-Raws
-  type: release_group
-  required: false
   negate: false
   pattern: Ohys-Raws
-- name: Pandoratv-Raws
-  type: release_group
   required: false
+  type: release_group
+- name: Pandoratv-Raws
   negate: false
   pattern: Pandoratv-Raws
-- name: Raws-Maji
-  type: release_group
   required: false
+  type: release_group
+- name: Raws-Maji
   negate: false
   pattern: Raws-Maji
-- name: ReinForce
-  type: release_group
   required: false
+  type: release_group
+- name: ReinForce
   negate: false
   pattern: ReinForce
-- name: Scryous-Raws
-  type: release_group
   required: false
+  type: release_group
+- name: Scryous-Raws
   negate: false
   pattern: Scryous-Raws
-- name: Seicher-Raws
-  type: release_group
   required: false
+  type: release_group
+- name: Seicher-Raws
   negate: false
   pattern: Seicher-Raws
-- name: Shiniori-Raws
-  type: release_group
   required: false
+  type: release_group
+- name: Shiniori-Raws
   negate: false
   pattern: Shiniori-Raws
+  required: false
+  type: release_group
 tests: []
