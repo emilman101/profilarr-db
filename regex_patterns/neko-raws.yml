@@ -1,0 +1,8 @@
+name: neko-raws
+pattern: (?<=^|[\s.-])neko-raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

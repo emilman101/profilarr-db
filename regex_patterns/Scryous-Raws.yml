@@ -1,0 +1,8 @@
+name: Scryous-Raws
+pattern: (?<=^|[\s.-])Scryous-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

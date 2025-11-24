@@ -1,0 +1,8 @@
+name: LowPower-Raws
+pattern: (?<=^|[\s.-])LowPower-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

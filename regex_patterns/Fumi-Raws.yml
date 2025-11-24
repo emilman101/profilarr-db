@@ -1,0 +1,8 @@
+name: Fumi-Raws
+pattern: (?<=^|[\s.-])Fumi-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

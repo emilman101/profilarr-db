@@ -1,0 +1,8 @@
+name: Raws-Maji
+pattern: (?<=^|[\s.-])Raws-Maji\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

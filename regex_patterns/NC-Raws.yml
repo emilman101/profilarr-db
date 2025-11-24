@@ -1,0 +1,8 @@
+name: NC-Raws
+pattern: (?<=^|[\s.-])NC-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

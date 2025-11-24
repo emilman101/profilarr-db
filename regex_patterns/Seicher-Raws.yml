@@ -1,0 +1,8 @@
+name: Seicher-Raws
+pattern: (?<=^|[\s.-])Seicher-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

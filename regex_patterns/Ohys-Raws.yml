@@ -1,0 +1,8 @@
+name: Ohys-Raws
+pattern: (?<=^|[\s.-])Ohys-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

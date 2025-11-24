@@ -1,0 +1,8 @@
+name: Moozzi2
+pattern: (?<=^|[\s.-])Moozzi2\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

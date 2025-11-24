@@ -1,0 +1,8 @@
+name: km
+pattern: (?<=^|[\s.-])km\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []

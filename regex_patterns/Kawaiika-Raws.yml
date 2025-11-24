@@ -1,0 +1,8 @@
+name: Kawaiika-Raws
+pattern: (?<=^|[\s.-])Kawaiika-Raws\b
+description: ''
+tags:
+- Release Group
+- Anime
+- Anime Raws
+tests: []
