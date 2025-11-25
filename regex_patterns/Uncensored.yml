@@ -1,0 +1,21 @@
+name: Uncensored
+pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
+description: 'Matches any type of uncensored edition.
+
+
+  [https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats/#uncensored](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats/#uncensored)'
+tags:
+- Edition
+- TRaSH
+tests:
+- expected: true
+  id: 1
+  input: South.Park.S19E06.Uncensored.1080p.WEB-DL.AAC2.0.H.264-NTb
+  lastRun: '2025-11-24T18:38:03.040306'
+  matchSpan:
+    end: 28
+    start: 18
+  matchedContent: Uncensored
+  matchedGroups:
+  - Uncensored
+  passes: true

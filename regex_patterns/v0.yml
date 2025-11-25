@@ -1,0 +1,8 @@
+name: v0
+pattern: (\b|\d)(v0)\b
+description: '[https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats/#v0](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats/#v0)'
+tags:
+- Anime
+- Version
+- TRaSH
+tests: []
