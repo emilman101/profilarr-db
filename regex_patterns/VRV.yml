@@ -1,0 +1,8 @@
+name: VRV
+pattern: \b(VRV)\b
+description: VRV (officially pronounced "verve", though it is also referred to by its letters) was an American over-the-top streaming service launched in November 2016 by AT&T and the Chernin Group. The service bundled together anime, speculative fiction, educational, and gaming-related channels aimed at fans of such content.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

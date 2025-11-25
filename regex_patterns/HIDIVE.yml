@@ -1,0 +1,8 @@
+name: HIDIVE
+pattern: \b(HIDI(VE)?)\b
+description: Hidive (stylized in all caps) is an American subscription video on-demand over-the-top streaming service owned by AMC Networks. The service primarily offers Japanese anime content to paid subscribers.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

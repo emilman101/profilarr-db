@@ -1,0 +1,8 @@
+name: Funimation
+pattern: \b(FUNi(mation)?)\b
+description: Funimation was an American subscription video on-demand over-the-top streaming service. Launched in 2016, the service was one of the leading distributors of anime and other foreign entertainment properties in North America.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

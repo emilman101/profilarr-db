@@ -1,0 +1,8 @@
+name: ADN
+pattern: \b(ADN)\b
+description: Animation Digital Network (ADN) is a French streaming service focused on Japanese and East Asian content.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

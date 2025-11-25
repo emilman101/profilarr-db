@@ -1,0 +1,8 @@
+name: ABEMA
+pattern: \b(ABEMA[ ._-]?(TV)?)\b
+description: Abema (アベマ; often stylized as all caps) is a Japanese streaming service that launched on April 11, 2016, under the name AbemaTV.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

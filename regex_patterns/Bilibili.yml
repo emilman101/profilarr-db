@@ -1,0 +1,8 @@
+name: Bilibili
+pattern: \b(Bili(bili)?)\b
+description: Bilibili, nicknamed B Site, is a Chinese online video sharing website where users can submit, view, and add overlaid commentary on videos.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

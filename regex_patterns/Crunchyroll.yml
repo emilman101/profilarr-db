@@ -1,0 +1,8 @@
+name: Crunchyroll
+pattern: \b(C(runchy)?[ .-]?R(oll)?)\b
+description: Crunchyroll is an American subscription video on-demand over-the-top streaming service. The service primarily distributes Japanese anime television series and films, as well as other East Asian media.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

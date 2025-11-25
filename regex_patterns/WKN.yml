@@ -1,0 +1,8 @@
+name: WKN
+pattern: \b(WKN|Waka(nim)?)\b
+description: Wakanim (WKN) was a former French VOD platform focused on streaming Japanese animated series.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []

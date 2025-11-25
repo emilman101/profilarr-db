@@ -1,0 +1,8 @@
+name: B-Global
+pattern: \b(B[ .-]?Global)\b
+description: B-Global is an alternate name for Bilibili.
+tags:
+- Streaming Service
+- Anime
+- _emil
+tests: []
